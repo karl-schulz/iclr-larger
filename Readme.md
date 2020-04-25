@@ -9,7 +9,7 @@ The online setup for ICLR 2020 is amazing, especially given the short preparatio
 
 
 ## Simple Steps
-- Copy the userContent.css in the right directory useing [these steps](https://davidwalsh.name/firefox-user-stylesheet). (You can skip #6)
+- Copy the userContent.css in the right directory using [these steps](https://davidwalsh.name/firefox-user-stylesheet). (You can skip #6)
 - Open Firefox and enjoy the larger view!
 - Use e.g. Chrome if your temporarily don't want it.
 
