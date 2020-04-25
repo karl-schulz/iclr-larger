@@ -1,6 +1,8 @@
 # Larger Videos & Slides for ICLR 2020
 
-TL;DR: Use your full screen width for the videos and slides.
+TL;DR: 
+- Use your full screen width
+- Put videos and slides next to each other
 
 The online setup for ICLR 2020 is amazing, especially given the short preparation time. However, I think the slides and video are too small, as they have to share 60% of an already small container. Use this custom CSS to enlargen them and put them next to each other. You can also open RocketChat e.g. in Chrome to have it in a separate window.
 
