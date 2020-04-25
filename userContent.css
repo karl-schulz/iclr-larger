@@ -1,0 +1,12 @@
+@-moz-document domain(iclr.cc) {
+    body .container { max-width:100% !important; }
+    .container > .row.m-2 > .col-md-5.col-xs-12.p-2 { max-width: 100% !important; flex-basis: 100% !important; width:100% !important; }
+    .container > .row.m-2 > .col-md-7.my-auto { max-width: 100% !important; flex-basis: 100% !important; width:100% !important; }
+    .container > .row.m-2 > .col-md-7.my-auto iframe { width:100% !important; }
+    .slp.my-auto > iframe { width:100%; }
+}
+@-moz-document domain(slideslive.com) {
+body { background: red; }
+.slp__media { display: flex !important; justify-content: center; }
+.slp--embed.slp { width:100% !important; }
+}
